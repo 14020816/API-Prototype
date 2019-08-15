@@ -15,5 +15,3 @@ app.route("/employees").get(searchController.getEmployees);
 
 
 
-Windows_2:13.230.118.17
-Administrator / 3UTxJokgES)Oz9mgu.LT%VbgnE4Y@gpn
